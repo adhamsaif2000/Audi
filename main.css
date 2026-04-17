@@ -1,0 +1,14 @@
+body{
+    background-color: burlywood;
+}
+.navbar{
+    background-color:  rgb(197, 32, 32);
+}
+.row{
+    margin-top: 10px;
+    height: 100px;
+}
+.card{
+    margin: 30px;
+    padding-top: 10px;
+}
